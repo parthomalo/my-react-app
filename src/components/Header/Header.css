@@ -1,7 +1,14 @@
-nav a {
-    text-decoration: none;
-    margin: 20px;
-    font-size: 20px;
-    color: black;
+.banner{
+    background-color:rgb(228, 235, 235);
+}
 
+.navbar{
+    display: flex;
+    margin: 0px 50px 0px 50px;
+}
+nav  {
+    margin-left:550px  ;
+}
+nav a {
+    margin-left: 30px;
 }

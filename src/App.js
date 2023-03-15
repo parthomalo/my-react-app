@@ -1,12 +1,13 @@
-
-import './App.css';
-import Header from './components/Header/Header';
+import './App.css'
+import Dark from './components/Dark';
+import Home from './components/Home/Home';
 
 
 function App() {
   return (
-    <div className="App">
-     <Header></Header>
+    <div className="all-page">
+      <Dark></Dark>
+     <Home/>
     </div>
   );
 }
